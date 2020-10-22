@@ -1,6 +1,6 @@
 # Event Display for Proto 1B
 
-The code is inspired by works of Chris and Alice HEP Dashboard designers.
+Present version.
 
 ![pic1](pic.png)
 
