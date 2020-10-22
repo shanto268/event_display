@@ -6,5 +6,5 @@ The code is inspired by works of Chris and Alice HEP Dashboard designers.
 
 Hoping to get something like this in future (late future).
 
-![TRD Display](alice-trd-event-display/open_days_display.png)
+![TRD Display](open_days_display.png)
 
